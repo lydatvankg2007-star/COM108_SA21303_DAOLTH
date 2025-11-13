@@ -25,6 +25,7 @@ int main(){
         printf("Yeu!!!!");
     }else{
         printf("Kem^_^");
-    }   
+    }  
+    printf("Het Lab 3"); 
     return 0;
 }
